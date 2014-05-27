@@ -1,1 +1,1 @@
-This is an example Git repository.
+This is a Git repository.
